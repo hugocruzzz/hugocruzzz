@@ -1,16 +1,13 @@
-## Hi there 👋
+##Olá!!!## 😁
 
-<!--
-**hugocruzzz/hugocruzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Hugo
+Tenho 16 anos
+Moro em Indaiatuba-SP
+e sou estudante do Alura.
+Estou usando este espaço apenas para desenvolver as atvidiades obrigatórias do Alura.
 
-Here are some ideas to get you started:
+##Você pode entrar em contato comigo!## 💚
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+0000110168767sp@al.educacao.sp.gov.br
+
+Até mais!
